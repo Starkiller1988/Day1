@@ -1,5 +1,1 @@
-# Day1
-# Day1
-# Day1
-# Day1
-# Day1
+Hello my first commit in the Java Bootcamp
