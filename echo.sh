@@ -9,4 +9,4 @@ read varage
 echo $varage? Man bist du alt! 
 echo $varname $varlastname, arbeitest du?
 read varboolean
-echo $varboolean? Aaaah sehr cool! Dann viel Erfolg damit
+echo $varboolean? Aaaah sehr cool! Dann viel Erfolg damit!
